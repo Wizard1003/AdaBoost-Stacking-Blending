@@ -101,7 +101,7 @@ Weighted Majority Vote           ▼
 
 # in bash 
 # Step 1 — Go into the correct folder
-cd "C:\Ruchi\Mini Project\aai\ensemble_models"
+cd "C:\file_path\ensemble_models"
 
 # Step 2 — Activate venv
 venv\Scripts\activate
